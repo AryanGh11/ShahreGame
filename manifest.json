@@ -1,0 +1,16 @@
+{
+  "homepage": ".",
+  "short_name": "شهر گیم",
+  "name": "ورژن یک پیجی",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F9F9F9",
+  "background_color": "#F9F9F9"
+}
