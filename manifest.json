@@ -1,6 +1,6 @@
 {
-  "short_name": "لوازم آشپزخانه خورشیدی",
-  "name": "لوازم آشپزخانه خورشیدی",
+  "short_name": "Fortnite Shop",
+  "name": "Fortnite Shop",
   "icons": [
     {
       "src": "logo.png",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "theme_color": "#1A1A1A",
+  "background_color": "#1A1A1A"
 }
