@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.e2763eca.css",
-    "main.js": "./static/js/main.53aaca9b.js",
-    "static/js/787.367af1f7.chunk.js": "./static/js/787.367af1f7.chunk.js",
-    "static/media/IRANYekanBoldFaNum.ttf": "./static/media/IRANYekanBoldFaNum.de140dfb8e4ea0c5a7da.ttf",
+    "main.css": "./static/css/main.2ad5004e.css",
+    "main.js": "./static/js/main.c22f267c.js",
+    "static/js/787.23170c61.chunk.js": "./static/js/787.23170c61.chunk.js",
+    "static/media/Burbank-Big-Condensed-Black.ttf": "./static/media/Burbank-Big-Condensed-Black.ea4ec9a0b8dc2f43214b.ttf",
+    "static/media/translate_dark.svg": "./static/media/translate_dark.057a8f80dd7a8d763b4e96bcfb8a6fdb.svg",
+    "static/media/translate_light.svg": "./static/media/translate_light.790fe66925202a1ece1fad3625e328db.svg",
+    "static/media/contact_dark.svg": "./static/media/contact_dark.9106b9cdf6a92dfb07f21a10a60b4346.svg",
+    "static/media/contact_light.svg": "./static/media/contact_light.fc184157548b0c3cf559256509d3f6ba.svg",
     "static/media/shop_nav_button.svg": "./static/media/shop_nav_button.77ba4066d6c3cf8f6fb1e7061b15cac8.svg",
     "static/media/addtocard_dark.svg": "./static/media/addtocard_dark.49cfdf3c4af2cdadff8d57903e37fe9f.svg",
+    "static/media/addtocard_light.svg": "./static/media/addtocard_light.485993ca441a5468b7f7ded2ae84044a.svg",
+    "static/media/shopping_cart_dark.svg": "./static/media/shopping_cart_dark.12fd50049c922af62eeecadcd6eec33f.svg",
+    "static/media/shopping_cart_light.svg": "./static/media/shopping_cart_light.5705fe8172ac9eead90f09a298eca357.svg",
+    "static/media/notification_dark.svg": "./static/media/notification_dark.4feb6a949c99cedec5b674f61c40c2ce.svg",
+    "static/media/notification_light.svg": "./static/media/notification_light.eb892589110fb6308b006cd4ddb71c19.svg",
     "static/media/challenge_nav_button.svg": "./static/media/challenge_nav_button.7f1559fbfef24c75f24e6067337af0e7.svg",
     "static/media/user_nav_button.svg": "./static/media/user_nav_button.c1d9a40f957108a68c2a8c5cf152ff24.svg",
     "index.html": "./index.html",
     "static/media/home_nav_button.svg": "./static/media/home_nav_button.d9954292d2527d9d1913b408bda72c1f.svg",
-    "main.e2763eca.css.map": "./static/css/main.e2763eca.css.map",
-    "main.53aaca9b.js.map": "./static/js/main.53aaca9b.js.map",
-    "787.367af1f7.chunk.js.map": "./static/js/787.367af1f7.chunk.js.map"
+    "static/media/arrow_dark.svg": "./static/media/arrow_dark.8aa04aa4356d4efdbdd253f33cd5cfda.svg",
+    "static/media/arrow_light.svg": "./static/media/arrow_light.650789b9725be58947f5014ed609e143.svg",
+    "main.2ad5004e.css.map": "./static/css/main.2ad5004e.css.map",
+    "main.c22f267c.js.map": "./static/js/main.c22f267c.js.map",
+    "787.23170c61.chunk.js.map": "./static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2763eca.css",
-    "static/js/main.53aaca9b.js"
+    "static/css/main.2ad5004e.css",
+    "static/js/main.c22f267c.js"
   ]
 }
